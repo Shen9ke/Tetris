@@ -1,0 +1,30 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "excludeScenes": [
+    "660f4376-2c9e-47ac-ab20-fe669bc14e5d"
+  ],
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.Tetris",
+  "privateKey": "",
+  "renderMode": "0",
+  "startScene": "4e4b9f17-9514-49c0-985e-bd0c733d5d63",
+  "title": "Tetris",
+  "webOrientation": "portrait"
+}

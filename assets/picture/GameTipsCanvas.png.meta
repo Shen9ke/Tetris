@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "d391056d-2846-477b-97de-14b341d7e203",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "GameTipsCanvas": {
+      "ver": "1.0.3",
+      "uuid": "c1de9049-7291-406a-924f-fa469a184d9a",
+      "rawTextureUuid": "d391056d-2846-477b-97de-14b341d7e203",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 251,
+      "height": 250,
+      "rawWidth": 252,
+      "rawHeight": 253,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
